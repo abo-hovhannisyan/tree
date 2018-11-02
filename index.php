@@ -3,7 +3,7 @@
 require_once __DIR__ . '/lib/treeBuild.php';
 
 $data = array(
-    array('id' => 1, 'parent_id' => null, 'name' => 'Cat 1','obj' => 'test'),
+    array('id' => 1, 'parent_id' => null, 'name' => 'Cat 1'),
     array('id' => 2, 'parent_id' => 1, 'name' => 'Cat 1.1'),
     array('id' => 3, 'parent_id' => 1, 'name' => 'Cat 1.2'),
     array('id' => 4, 'parent_id' => 2, 'name' => 'Cat 1.1.1'),
