@@ -19,6 +19,3 @@ $result = $tree->set($data)
               ->setColumn(['id', 'parent_id'])
               ->get();
 print_r($result);
-/*
- * @
- * */
