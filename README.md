@@ -43,7 +43,6 @@ Array
         (
             [id] => 1
             [name] => Cat 1
-            [obj] => test
             [children] => Array
                 (
                     [0] => Array
